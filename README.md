@@ -5,3 +5,4 @@ In natural language processing, language identification or language guessing is 
 which natural language given content is in. It refers to the problem of identifying the language of a given spoken
 utterance from short-term acoustic features, or of a given text (In the case of identifying the language from a
 written text it is viewed as a special case of text categorization). Apply the K-means alg
+> - project discription *https://github.com/peterezz/language-identification-/blob/main/DOCUMENTATION.docx*
